@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Intro from "./components/Intro";
 import Timeline from "./components/Timeline";
 import Portfolio from "./components/Portfolio";
@@ -11,6 +11,7 @@ function App() {
       <div className="App">
         <Intro></Intro>
         <Portfolio></Portfolio>
+        <Timeline />
       </div>
     </>
   );

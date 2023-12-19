@@ -1,23 +1,17 @@
-import { useState } from "react";
+import React from "react";
+import Intro from "./components/Intro";
+import Timeline from "./components/Timeline";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
+import Contact from "./components/Contact";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
-      <div></div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+      <div className="App">
+        <Intro></Intro>
+        <Portfolio></Portfolio>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   );
 }

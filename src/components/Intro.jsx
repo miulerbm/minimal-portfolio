@@ -10,10 +10,9 @@ function Intro() {
         Mechatronics Engineer & Software Developer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet tempore
-        provident labore expedita quae debitis suscipit, recusandae dolorum
-        quasi perferendis optio, doloribus sequi culpa inventore placeat, sint
-        ipsa. Necessitatibus, voluptatem. Puedes ir a{" "}
+        I have coded in C++, Java, Assembler, MATLAB and most recently in Python
+        and JavaScript. I like robotics and build software apps. Interested in
+        using technology to bring cool ideas to life. You can checkout my{" "}
         <a
           href="www.linkedin.com/in/miuler-blas-marquina"
           target="_blank"
@@ -22,7 +21,7 @@ function Intro() {
         >
           Linkedin
         </a>{" "}
-        para saber más de mí.
+        to know more about me.
       </p>
     </div>
   );

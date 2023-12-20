@@ -4,20 +4,20 @@
 export default [
   {
     title: "Machine Learning Project",
-    imgUrl: "./public/assets/vite.svg",
-    stack: ["Python", "TensorFlow"],
+    imgUrl: "./src/assets/ml_app.jpg",
+    stack: ["Python", "Sci-kit Learn", "Streamlit"],
     link: "https://github.com/miulerbm?tab=repositories",
   },
   {
     title: "Database Manager App",
-    imgUrl: "./public/assets/vite.svg",
+    imgUrl: "./src/assets/database_app.jpeg",
     stack: ["C#", "MySQL", "Apache Hadoop"],
     link: "https://github.com/miulerbm?tab=repositories",
   },
   {
-    title: "Pong Game",
-    imgUrl: "./public/assets/vite.svg",
-    stack: ["C++"],
+    title: "Sales Overview",
+    imgUrl: "./src/assets/analyst_proj.png",
+    stack: ["SQL", "PowerBI", "DAX"],
     link: "https://github.com/miulerbm?tab=repositories",
   },
 ];

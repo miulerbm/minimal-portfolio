@@ -1,7 +1,7 @@
 export default [
   {
     year: "Today",
-    title: "Fullstack Programmer",
+    title: "Fullstack Developer",
     duration: "(Nov 2023 - Today)",
     details:
       "Embarked on the journey of software development by developing a backoffice management application utilizing Next JS 14. Using Java to code Lambda functions for event-driven backend actions. Deployed these functions in a cloud environment, leveraging AWS and Docker technologies. All these coding tasks within the Ubuntu distribution.",

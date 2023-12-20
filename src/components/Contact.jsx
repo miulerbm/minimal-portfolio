@@ -10,7 +10,7 @@ function Contact() {
           href="https://www.linkedin.com/in/miulerbm"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-500 hover:underline mb-2"
+          className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
         >
           LinkedIn: Miuler Blas
         </a>
@@ -19,17 +19,19 @@ function Contact() {
           href="https://github.com/miulerbm"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-500 hover:underline mb-2"
+          className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
         >
           GitHub: miulerbm
         </a>
         <a
           href="mailto:miulerbm00@gmail.com"
-          className="text-blue-500 hover:underline mb-2"
+          className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
         >
           Email: miulerbm00@gmail.com
         </a>
-        <p className="text-blue-500 mb-2">WhatsApp: (+51) 946 574 201</p>
+        <p className="text-cyan-600 underline-offset-2 decoration-2 decoration-red-600">
+          WhatsApp: (+51) 946 574 201
+        </p>
       </div>
     </div>
   );

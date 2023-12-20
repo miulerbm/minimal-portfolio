@@ -15,7 +15,7 @@ function Intro() {
         Interested in using technology to bring cool ideas to life. You can
         checkout my{" "}
         <a
-          href="www.linkedin.com/in/miuler-blas-marquina"
+          href="https://www.linkedin.com/in/miulerbm"
           target="_blank"
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
           rel="noreferrer noopener"

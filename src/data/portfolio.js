@@ -21,7 +21,7 @@ export default [
     link: "https://github.com/miulerbm/basic-old-portfolio",
   },
   {
-    title: "Machine Learning Project",
+    title: "Salary Predictor",
     imgUrl: "src/assets/ml_app.jpg",
     stack: ["Python", "Sci-kit", "Streamlit"],
     link: "https://github.com/miulerbm/mlWebApp",

@@ -11,8 +11,9 @@ function Intro() {
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
         I have coded in C++, Java, Assembler, MATLAB and most recently in Python
-        and JavaScript. I like robotics and build software apps. Interested in
-        using technology to bring cool ideas to life. You can checkout my{" "}
+        and JavaScript. I like robotics and enjoy building software apps.
+        Interested in using technology to bring cool ideas to life. You can
+        checkout my{" "}
         <a
           href="www.linkedin.com/in/miuler-blas-marquina"
           target="_blank"

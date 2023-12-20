@@ -7,22 +7,22 @@ function Intro() {
         Miuler Blas
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Mechatronics Engineer & Software Developer
+        Fullstack Developer | Mechatronics
       </p>
+
       <p className="text-sm max-w-xl mb-6 font-bold">
-        I have coded in C++, Java, Assembler, MATLAB and most recently in Python
-        and JavaScript. I like robotics and enjoy building software apps.
-        Interested in using technology to bring cool ideas to life. You can
-        checkout my{" "}
+        &quot;We who cut mere stones must always be envisioning cathedrals&quot;
+        <br></br>I&apos;ve coded solutions in diverse fields, ranging from
+        embedded systems to web applications. Explore my journey on{" "}
         <a
           href="https://www.linkedin.com/in/miulerbm"
           target="_blank"
           className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
           rel="noreferrer noopener"
         >
-          Linkedin
+          LinkedIn
         </a>{" "}
-        to know more about me.
+        to discover more about my endeavors.
       </p>
     </div>
   );

@@ -1,3 +1,3 @@
-# Minimal Portfolio
+# Salut
 
-A minimal portfolio project built using React + Tailwind + Vite
+This is miulerbm, I build stuff. Stay tuned!

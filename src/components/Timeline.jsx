@@ -6,9 +6,9 @@ import TimelineItem from "./TimelineItem";
 function Timeline() {
   // Here we will iterate through the TimelineItems, like in portfolio.
   return (
-    // El padding p-20 es la clave para hacerlo cvr xd
-    <div className="flex flex-col md:flex-row justify-center my-20 p-20">
-      <div className="w-full md:w-7/12">
+    // El padding p-20 es la clave para que no se malogre el timeline
+    <div className="flex flex-col md:flex-row justify-center my-20 px-16">
+      <div className=" w-full md:w-9/12">
         {timeline.map((item) => (
           <TimelineItem
             year={item.year}

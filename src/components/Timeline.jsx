@@ -1,15 +1,13 @@
-/* eslint-disable react/jsx-key */
 // import React from "react";
 import timeline from "../data/timeline";
 import TimelineItem from "./TimelineItem";
 import Title from "./Title";
 
 function Timeline() {
-  // Here we will iterate through the TimelineItems, like in portfolio.
   return (
-    // El padding p-20 es la clave para que no se malogre el timeline
-    <div className="flex flex-col md:flex-row justify-center my-20 px-20">
-      <div className=" w-full md:w-7/12">
+    <div className="flex flex-col md:flex-row justify-center my-20 px-5 md:px-20">
+      {/* Ajusta el padding para dispositivos más pequeños */}
+      <div className="w-full md:w-7/12">
         <Title>Timeline</Title>
         {timeline.map((item, index) => (
           <TimelineItem

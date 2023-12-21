@@ -18,20 +18,20 @@ export default [
     title: "Artificial Intelligence Programmer",
     duration: "4 months",
     details:
-      "During the 2019 Introduction to Artificial Intelligence Class, I learned how to build neural networks for prediction and classification purposes. It was my first approach to Python and using software for data manipulation and analysis. I made a YOLO algorithm detector for identifying and labelling components in PCBs.",
+      "During the 2020 Introduction to Artificial Intelligence Class, I learned how to build neural networks for prediction and classification purposes. It was my first approach to Python and using software for data manipulation and analysis. I made a YOLO algorithm detector for identifying and labelling components in PCBs.",
   },
   {
     year: "2018",
     title: "Mechatronics Engineer",
-    duration: "2 years",
+    duration: "4 years",
     details:
-      "Utilized Arduino and Raspberry Pi to create robotics applications, including a versatile 3 DOF robot arm and a gimbal camera stabilizer. Programmed PLCs for industrial automation and coded PICs in assembler for temperature control in a hatching machine.",
+      "Utilized Arduino and Raspberry Pi to build robot applications, including a versatile 3 DOF robot arm and a gimbal camera stabilizer. Programmed PLCs for industrial automation and coded PICs in assembler for temperature control in a hatching machine.",
   },
   {
     year: "2017",
     title: "Hello World!",
     duration: "the beginning",
     details:
-      "My first class in programming during my studies in mechatronics engineering. I built the basic foundations and learned that programming is not about writing code but about solving problems and using code as a tool for that. I made a C++ pong game, nothing fancy, but it was fun :).",
+      "My first class in programming during my freshman year at college. I built the basic foundations and learned that programming is not about writing code but about solving problems and using code as a tool for that. I made a C++ pong game, nothing fancy, but it was fun :).",
   },
 ];

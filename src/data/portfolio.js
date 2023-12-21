@@ -4,37 +4,37 @@
 export default [
   {
     title: "React JS Calculator",
-    imgUrl: "public/assets/analyst_proj.png",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["React", "JavaScript"],
     link: "https://github.com/miulerbm/react-calculator",
   },
   {
     title: "Database Manager App",
-    imgUrl: "public/assets/database_app.jpeg",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["C#", "MySQL", "Apache Server"],
     link: "https://github.com/miulerbm/DatabaseSQLMusicAppWF",
   },
   {
     title: "Fullstack Portfolio",
-    imgUrl: "public/assets/basic-portfolio.png",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["JavaScript", "HTML", "CSS"],
     link: "https://github.com/miulerbm/basic-old-portfolio",
   },
   {
     title: "Salary Predictor",
-    imgUrl: "public/assets/ml_app.jpg",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["Python", "Sci-kit", "Streamlit"],
     link: "https://github.com/miulerbm/mlWebApp",
   },
   {
     title: "IBM ML Labs",
-    imgUrl: "public/assets/ibm-ml.jpg",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["Python", "Sci-kit", "Machine Learning"],
     link: "https://github.com/miulerbm/IBM_MachineLearning",
   },
   {
     title: "Sales Analytics",
-    imgUrl: "public/assets/analyst_proj.png",
+    imgUrl: "src/assets/react-calculator.jpg",
     stack: ["SQL", "PowerBI", "DAX"],
     link: "https://github.com/miulerbm/SalesReportPBIX",
   },
